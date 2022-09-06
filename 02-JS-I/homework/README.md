@@ -6,7 +6,7 @@
 
 1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
 
- * Variables //algo que puede tenet varias opciones
+ * Variables //algo que puede tener varias opciones
  * Strings // son una cadenas de caracteres 
  * Funciones (argumentos, `return`) 
  * Declaraciones `if` 

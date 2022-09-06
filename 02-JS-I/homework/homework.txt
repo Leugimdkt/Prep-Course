@@ -1,0 +1,5 @@
+* Variables //algo que puede tener varias opciones
+ * Strings // son una cadenas de caracteres 
+ * Funciones (argumentos, `return`) 
+ * Declaraciones `if` 
+ * Valores booleanos (`true`, `false`) //valores verdaderos o falso

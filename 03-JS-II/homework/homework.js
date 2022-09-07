@@ -216,7 +216,8 @@ function doWhile(numero) {
   let contador = 0;
   let numeroaumentado = numero;
   do {
-    numeroaumentado = numeroaumentado = 5;
+    numeroaumentado = numeroaumentado + 5;
+    contador++;
   } while (contador < 8);
   return numeroaumentado;
 }
